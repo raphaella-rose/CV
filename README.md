@@ -11,7 +11,6 @@ software engineering bootcamp. I have found the perfect balance of structure and
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 |  **Weather App**             | A webapp that lets users search for the current weather and forecast in cities around the world.| React.js, HTML, CSS, Bootstrap, API |
 | **Dictionary App**           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |
-|                              |                                                                                                 |                                     |
 
 ## Work Experience
 
