@@ -7,14 +7,11 @@ software engineering bootcamp. I have found the perfect balance of structure and
 
 ## Projects
 
-| Name                         | Description                         | Tech/tools                          |
-| ---------------------------- | ----------------------------------- | ----------------------------------- |
-|                              | A webapp that lets users search     |                                     |
-| **Weather App**              | for the current weather and forecast| React.js, HTML, CSS, Bootstrap, API |
-|                              | in cities around the world.         |                                     |
-|                              | A webapp that produces definitions, |                                     |
-| **Dictionary App**           | pronunciations, and images of a word| React.js, HTML, CSS, Bootstrap, API |
-|                              | when searched. Ruby                 |                                     |
+| Name                         | Description                                                                                     | Tech/tools                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+|  **Weather App**             | A webapp that lets users search for the current weather and forecast in cities around the world.| React.js, HTML, CSS, Bootstrap, API |
+| **Dictionary App**           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |
+|                              |                                                                                                 |                                     |
 
 ## Work Experience
 
