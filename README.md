@@ -1,13 +1,20 @@
-## Your Name
+## Raphaella D'Alessandro
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A front-end web developer based in London. 
+In the last year I went from writing my first "Hello World", 
+to completing a course in front-end web development and starting the Makers Academy 
+software engineering bootcamp. I have found the perfect balance of structure and creativity in coding.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                         | Tech/tools                          |
+| ---------------------------- | ----------------------------------- | ----------------------------------- |
+|                              | A webapp that lets users search     |                                     |
+| **Weather App**              | for the current weather and forecast| React.js, HTML, CSS, Bootstrap, API |
+|                              | in cities around the world.         |                                     |
+|                              | A webapp that produces definitions, |                                     |
+| **Dictionary App**           | pronunciations, and images of a word| React.js, HTML, CSS, Bootstrap, API |
+|                              | when searched. Ruby                 |                                     |
 
 ## Work Experience
 
