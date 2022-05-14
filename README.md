@@ -3,7 +3,7 @@
 A front-end web developer based in London. 
 In the last year I went from writing my first "Hello World", 
 to completing a course in front-end web development and starting the Makers Academy 
-software engineering bootcamp. I have found the perfect balance of structure and creativity in coding.
+software engineering bootcamp. I have found the perfect balance of structure and creativity in coding. 
 
 ## Projects
 
@@ -14,8 +14,8 @@ software engineering bootcamp. I have found the perfect balance of structure and
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Havas Life Medicom** (January 2020 to June 2021)  
+_Administrator - Talent & People_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -70,6 +70,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Subject, any specialisms
 - Grade
 - Other cool stuff
+
+#### University of West London (year achieved_2016_)
+
+- Musical Theatre
+- Grade 8
+- Distinction
+
 
 #### Any other qualifications
 
