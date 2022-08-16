@@ -22,6 +22,14 @@ const Raphaella = {
 | [**Bookmark Manager**](https://github.com/raphaella-rose/bookmark-manager)   | System that lets users create, delete and update bookmarks with title and url.     | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML |
 | [**Dictionary App**](https://vigilant-bhabha-08e91b.netlify.app/)           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |
 
+<h1> Skills <img src="https://c.tenor.com/-VgIQlvgQW4AAAAi/cute-dogs.gif" width="75" ></h1>
+
+***Communication***
+
+***Problem Solving***
+
+***Time Management & Organisation***
+
 <h1> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
 
 #### Makers Academy (April 2022 - August 2022)
@@ -52,4 +60,6 @@ Intensive full-stack software engineering bootcamp focusing on:
 - Musical Theatre
 - Grade 8
 - Distinction
+
+
 
