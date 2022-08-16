@@ -30,6 +30,8 @@ const Raphaella = {
 
 ***Time Management & Organisation***
 
+***Teamwork***
+
 <h1> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
 
 #### Makers Academy (April 2022 - August 2022)
