@@ -35,33 +35,26 @@ During my studies two friends and I founded an events company called Dreamrole P
 
 <h1> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
 
-#### Makers Academy (April 2022 - August 2022)
+```javascript
+  const MakerAcademy = {
+                        Subject: 'Fullstack Software Engineering',
+                        Dates: 'April 2022 - August 2022',
+                        Learning: [ 'OOP', 'TDD', 'pair programming/group work', 'agile methodologies', JavaScript, Ruby ]
+                        }
+  
+  const SheCodes = {
+                        Subject: 'Frontend Web Development',
+                        Dates: 'May 2021 - August 2021',
+                        Courses: [ 'Basics', 'Plus', 'Responsive', 'React' ],
+                        Learning: [ 'responsive web design', 'flexbox', 'SEO', 'API', 'hosting', 'GitHub', 'Bootstrap', HTML, CSS, JavaScript, React ]
+                        }
+                        
+```
 
-Intensive full-stack software engineering bootcamp focusing on: 
-- OOP
-- TDD
-- Pair programming/group work
-- Agile methodologies
-- Javascript
-- Ruby
-
-#### SheCodes Basics, Plus, Responsive & React (May 2021 - August 2021)
-- React
-- Responsive Design
-- Flexbox
-- SEO
-- Github
-- Bootstrap
-- API
-- Hosting
-- HTML
-- CSS
-- JavaScript
 
 #### University of West London (year achieved_2016_)
 
-- Musical Theatre
-- Grade 8
+- Musical Theatre Grade 8
 - Distinction
 
 #### Richmond Upon Thames College (2016 - 2018)
