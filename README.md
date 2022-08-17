@@ -23,7 +23,7 @@ const Raphaella = {
          },
 }
 ```
-<h1> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
+<h1 id="projects"> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
 
 | Name                         | Description                                                                                     | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -32,7 +32,7 @@ const Raphaella = {
 | [**Bookmark Manager**](https://github.com/raphaella-rose/bookmark-manager)   | System that lets users create, delete and update bookmarks with title and url.     | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML |
 | [**Dictionary App**](https://vigilant-bhabha-08e91b.netlify.app/)           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |
 
-<h1> Skills <img src="https://c.tenor.com/-VgIQlvgQW4AAAAi/cute-dogs.gif" width="75" ></h1>
+<h1 id="skills"> Skills <img src="https://c.tenor.com/-VgIQlvgQW4AAAAi/cute-dogs.gif" width="75" ></h1>
 
 ***Communication*** <br/>
 Communication, both written and verbal, has been at the centre of my career and education. In my previous role in human resources and recruitment, fantastic interpersonal skills were vital to my success in ensuring the entire company completed compliance courses. I regularly spoke with a range of people from graduates to the managing director both in the office and while working remotely to persuade them to complete the mandatory training. Adapting my communication style for the different audiences was a key part of this. I gamified the process using a scoreboard that showed each departments ranking, and used active listening techniques to ensure clarity in my conversations. As a result, the compliance completetion rate for the company went from around 60% to 95% in under a year. This really helped prepare me for Makers, as communication when pairing and working in teams has been really important in maintaining good working relationships and producing quality work.
@@ -43,7 +43,7 @@ Throughout my time at Makers I completed several group projects which heavily re
 ***Teamwork*** <br/>
 During my studies two friends and I founded an events company called Dreamrole Productions; teamwork was essential here as we were entering a relatively unknown industry and had to cover lots of ground. Being proactive about getting stuck in and stepping outside of our comfort zones allowed us to explore every aspect from the planning to the day of the event as a team. As in all good teams, we had a unique set of backgrounds and views that allowed us to harness a new creativity and put conflict resolution skills into practice. Due to developing our teamwork skills we ran six events, all profitable, over two years with over 175 participants. Teamwork has been fundamental in both my career and education, and I found it particularly useful when completing group coding projects at Makers. When faced with brand new tech that we weren't sure of having a proactive frame of mind was a necessity. 
 
-<h1> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
+<h1 id="education"> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
 
 ```javascript
   const MakerAcademy = {
@@ -70,7 +70,7 @@ During my studies two friends and I founded an events company called Dreamrole P
 - Level 3 Health & Social Care BTEC
 - D*, D*, D
 
-<h1> Work Experience <img src="https://c.tenor.com/rfBD3qlqgqoAAAAi/kawaii-anime.gif" width="75"></h1>
+<h1 id="work"> Work Experience <img src="https://c.tenor.com/rfBD3qlqgqoAAAAi/kawaii-anime.gif" width="75"></h1>
 
 **Havas Life Medicom** (January 2020 - June 2021)  
 _Administrator - Talent & People_
