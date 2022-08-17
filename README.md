@@ -79,7 +79,7 @@ _Administrator - Talent & People_
 - Diversity & Inclusion Ambassador
 - Recruitment & onboarding process from screening candidates to induction sessions
 - Payroll
-- Liasing with the wider business, finance department & senior leadership team
+- Liaising with the wider business, finance department & senior leadership team
 
 **Kingston Lodge Hotel & Bingham Riverhouse** (May 2019 - October 2019)  
 _Receptionist_
