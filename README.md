@@ -24,7 +24,8 @@ const Raphaella = {
 
 <h1> Skills <img src="https://c.tenor.com/-VgIQlvgQW4AAAAi/cute-dogs.gif" width="75" ></h1>
 
-***Communication***
+***Communication*** <br/>
+Communication, both written and verbal, has been at the centre of my career and education. In my previous role in human resources and recruitment, fantastic interpersonal skills were vital to my success in ensuring the entire company completed compliance courses. I regularly spoke with a range of people from graduates to the managing director both in the office and while working remotely to persuade them to complete the mandatory training. Adapting my communication style for the different audiences was a key part of this. I gamified the process using a scoreboard that showed each departments ranking, and used active listening techniques to ensure clarity in my conversations. As a result, the compliance completetion rate for the company went from around 60% to 95% in under a year.
 
 ***Problem Solving***
 
