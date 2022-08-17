@@ -78,3 +78,10 @@ _Receptionist_
 - Responding to enquiries
 - Training new team members
 - balancing and reconciling PDQ transactions against the system for both bar & reception
+
+**West End Theatre Production** (October 2018 - April 2019)  
+_Administration & Social Media Marketing_
+
+- Growing follower count and engagement on multiple platforms incl. Twitter & Instagram
+- Managing inboxes, updating websites, responding to enquiries
+- Event planning & marketing
