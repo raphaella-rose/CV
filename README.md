@@ -49,7 +49,7 @@ During my studies two friends and I founded an events company called Dreamrole P
   const MakerAcademy = {
                         Subject: 'Fullstack Software Engineering',
                         Dates: 'April 2022 - August 2022',
-                        Learning: [ 'OOP', 'TDD', 'pair programming/group work', 'agile methodologies', JavaScript, Ruby ]
+                        Learning: [ 'OOP', 'TDD', 'pair programming/group work', 'agile methodologies', 'EQ', JavaScript, Ruby ]
                         }
   
   const SheCodes = {
