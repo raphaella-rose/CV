@@ -2,7 +2,7 @@
 
 <p>
   <div align="center">
-    <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#about-me">About Me</a> | 
+    <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#a-little-bit-about-me">About Me</a> | 
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#projects">Projects</a> |  
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#skills">Skills</a> |  
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#education">Education</a> |  
