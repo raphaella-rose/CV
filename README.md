@@ -71,4 +71,10 @@ _Administrator - Talent & People_
 - Payroll
 - Liasing with the wider business, finance department & senior leadership team
 
+**Kingston Lodge Hotel & Bingham Riverhouse** (May 2019 - October 2019)  
+_Receptionist_
 
+- Greeting & interacting with guests
+- Responding to enquiries
+- Training new team members
+- balancing and reconciling PDQ transactions against the system for both bar & reception
