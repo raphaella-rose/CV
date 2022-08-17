@@ -64,5 +64,8 @@ Intensive full-stack software engineering bootcamp focusing on:
 - Grade 8
 - Distinction
 
+#### Richmond Upon Thames College (2016 - 2018)
+- Level 3 Health & Social Care BTEC
+- D*, D*, D
 
 
