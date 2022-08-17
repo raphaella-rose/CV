@@ -51,7 +51,6 @@ During my studies two friends and I founded an events company called Dreamrole P
                         
 ```
 
-
 #### University of West London (year achieved_2016_)
 
 - Musical Theatre Grade 8
@@ -61,4 +60,15 @@ During my studies two friends and I founded an events company called Dreamrole P
 - Level 3 Health & Social Care BTEC
 - D*, D*, D
 
-<h1> Job History <img src="https://c.tenor.com/481Rw02cyNcAAAAi/%E5%90%A0%E5%8F%AB-corgi.gif" width="75" ></h1>
+<h1> Work Experience <img src="https://c.tenor.com/481Rw02cyNcAAAAi/%E5%90%A0%E5%8F%AB-corgi.gif" width="75" ></h1>
+
+**Havas Life Medicom** (January 2020 - June 2021)  
+_Administrator - Talent & People_
+
+- Reporting: absence, compliance, objectives, ad hoc reports
+- Diversity & Inclusion Ambassador
+- Recruitment & onboarding process from screening candidates to induction sessions
+- Payroll
+- Liasing with the wider business, finance department & senior leadership team
+
+
