@@ -58,21 +58,17 @@ During my studies two friends and I founded an events company called Dreamrole P
 
 <h1 id="education"> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
 
-```javascript
-  const MakerAcademy = {
-                        Subject: 'Fullstack Software Engineering',
-                        Dates: 'April 2022 - August 2022',
-                        Learning: [ 'OOP', 'TDD', 'pair programming/group work', 'agile methodologies', 'EQ', JavaScript, Ruby ]
-                        }
-  
-  const SheCodes = {
-                        Subject: 'Frontend Web Development',
-                        Dates: 'May 2021 - August 2021',
-                        Courses: [ 'Basics', 'Plus', 'Responsive', 'React' ],
-                        Learning: [ 'responsive web design', 'flexbox', 'SEO', 'API', 'hosting', 'GitHub', 'Bootstrap', HTML, CSS, JavaScript, React ]
-                        }
-                        
-```
+
+#### Makers Academy (April 2022 - August 2022)
+
+- Fullstack Software Engineering
+- Learning: OOP, MVC, TDD, pair programming/group work, agile methodologies, EQ, JavaScript, Ruby 
+
+#### SheCodes (May 2021 - August 2021)
+
+- Front-end Web Development
+- Courses: Basics, Plus, Responsive, React 
+- Learning: responsive web design, flexbox, SEO, API, hosting, GitHub, Bootstrap, HTML, CSS, JavaScript, React 
 
 #### University of West London (year achieved_2016_)
 
