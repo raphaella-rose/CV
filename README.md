@@ -26,7 +26,14 @@ const Raphaella = {
 
 <h1 id="about-me"> A Little Bit About Me... <img src="https://c.tenor.com/fbNST3YjMsAAAAAi/the-good-doggy.gif" width="100" ></h1>
 
-My career background is people facing roles that focus heavily on communication, whereas in my free time I prefer to do less talking, spending it reading, playing video games and seeing musical theatre shows. I explored lots of different roles since leaving college and took my favourite things from each of them when I left: creativity, structure, fast-paced work and space for learning new things. I found all of this in software engineering. I chose coding because it's an outlet for creativity that I haven't found in previous roles, as well as being intellectually challenging. I love the problem solving aspect as it keeps me motivated and energetic.
+My work background has been people facing roles that focus heavily on communication; whereas in my free time I prefer to do less talking, spending it reading, playing video games and seeing musical theatre shows. I explored lots of different roles since leaving college and took my favourite things from each of them when I left: 
+
+- creativity
+- structure
+- fast-paced work
+- space for learning new things 
+ 
+I found all of this in software engineering. I chose coding because it's an outlet for creativity that I haven't found in previous roles, as well as being intellectually challenging. I love the problem solving aspect as it keeps me motivated and energetic.
 
 
 <h1 id="projects"> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
