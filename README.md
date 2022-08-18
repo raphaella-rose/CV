@@ -5,7 +5,8 @@
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#projects">Projects</a> |  
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#skills">Skills</a> |  
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#education">Education</a> |  
-    <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#work">Work Experience</a> 
+    <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#work">Work Experience</a> |
+    <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#hobbies">Hobbies</a> 
   </div>
 </p>
 <br/>
@@ -100,3 +101,5 @@ _Administration & Social Media Marketing_
 - Growing follower count and engagement on multiple platforms incl. Twitter & Instagram
 - Managing inboxes, updating websites, responding to enquiries
 - Event planning & marketing
+
+<h1 id="hobbies"> Hobbies <img src="https://c.tenor.com/bKULdCc-9JsAAAAi/doggy-dog.gif" width="75"></h1>
