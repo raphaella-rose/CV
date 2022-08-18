@@ -110,3 +110,18 @@ _Administration & Social Media Marketing_
 - Event planning & marketing
 
 <h1 id="hobbies"> Hobbies <img src="https://c.tenor.com/bKULdCc-9JsAAAAi/doggy-dog.gif" width="75"></h1>
+
+🎭 My first love was musical theatre and I've enjoyed spending time watching shows, setting up a musical theatre events company, and achieving a grade 8 in musical theatre singing. At the time of writing I've seen Wicked 14 times although one of my favourite shows to go and see is Everybody's Talking About Jamie. 
+
+📖 I enjoy reading both fiction and non-fiction books. I love thrillers and learning more about psychology and sociology. 
+
+👑 I'm not ashamed to admit I have a weird obsession with the Tudors that was triggered by frequent visits to Hampton Court Palace, which I'm lucky to have grown up round the corner from. I enjoy reading historical fiction about Henry's wives as well as multiple trips to see Six, the musical based on their lives.
+
+🐕 I have a fluffy sausage dog, Chipolata, who I spend most of my time with; taking him for a long walk is often the highlight of my day (unless there's a squirrel chase!). 
+
+🎮 I've always enjoyed playing video games although this definitely peaked during the lockdowns. Some of my favourites are:
+- Call of Duty Black Ops 2 and Modern Warfare 4
+- Fortnite
+- Animal Crossing
+- Super Mario 64
+- Red Dead Redemption and GTA 5
