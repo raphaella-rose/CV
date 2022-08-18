@@ -105,6 +105,8 @@ _Administration & Social Media Marketing_
 - Managing inboxes, updating websites, responding to enquiries
 - Event planning & marketing
 
+**I worked in hospitality roles whilst still in full-time education which helped me develop my communication, problem solving and time management skills further.**
+
 <h1 id="hobbies"> Hobbies <img src="https://c.tenor.com/bKULdCc-9JsAAAAi/doggy-dog.gif" width="75"></h1>
 
 🎭 My first love was musical theatre and I've enjoyed spending time watching shows, setting up a musical theatre events company, and achieving a grade 8 in musical theatre singing. At the time of writing I've seen Wicked 14 times although one of my favourite shows to go and see is Everybody's Talking About Jamie. 
