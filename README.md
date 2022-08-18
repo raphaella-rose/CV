@@ -98,11 +98,12 @@ _Receptionist_
 **West End Theatre Production** (October 2018 - April 2019)  
 _Administration & Social Media Marketing_
 
-- Growing follower count and engagement on multiple platforms incl. Twitter & Instagram
-- Managing inboxes, updating websites, responding to enquiries
-- Event planning & marketing
+- Growing follower count and engagement on multiple platforms incl. Twitter & Instagram required analytical skills and creativity.
+- Managing inboxes, updating websites and responding to enquiries allowed me to practice my communication skills and time management.
+- Event planning & marketing was the perfect opportunity to put into practice project management skills I started developing during my entrepreneurship. 
 
-**I worked in hospitality roles whilst still in full-time education which helped me develop my communication, problem solving and time management skills further.**
+
+**I worked in hospitality roles whilst still in full-time education which helped me develop my communication, problem solving and most importantly time management skills further.**
 
 <h1 id="hobbies"> Hobbies <img src="https://c.tenor.com/bKULdCc-9JsAAAAi/doggy-dog.gif" width="75"></h1>
 
