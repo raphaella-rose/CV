@@ -1,5 +1,4 @@
 <h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/481Rw02cyNcAAAAi/%E5%90%A0%E5%8F%AB-corgi.gif" width="75" > </h1>
-
 <p>
   <div align="center">
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#about-me">About Me</a> | 
@@ -9,6 +8,7 @@
     <a href="https://github.com/raphaella-rose/CV/blob/master/README.md#work">Work Experience</a> 
   </div>
 </p>
+<br/>
 
 ```javascript
 const Raphaella = {
