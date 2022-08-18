@@ -91,10 +91,9 @@ _Administrator - Talent & People_
 **Kingston Lodge Hotel & Bingham Riverhouse** (May 2019 - October 2019)  
 _Receptionist_
 
-- Greeting & interacting with guests
-- Responding to enquiries
-- Training new team members
-- balancing and reconciling PDQ transactions against the system for both bar & reception
+- In this customer facing role I used my interpersonal communication skills to greet & interact with guests during their stay, making sure their experience was friendly and seamless. 
+- Having the responsibility of training new team members was something I enjoyed. It allowed me to develop my leadership skills as well as my active listening skills.
+- Balancing and reconciling PDQ transactions against the system for the reception, bar and restaurant assisted me in polishing my problem solving skills and meticulous eye for detail.
 
 **West End Theatre Production** (October 2018 - April 2019)  
 _Administration & Social Media Marketing_
