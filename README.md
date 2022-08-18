@@ -15,7 +15,7 @@
 const Raphaella = {
   pronouns: 'she' | 'her',
   location: 'London',
-  interests: [ 'reading', 'long walks', 'musical-theatre', 'gaming' ],
+  interests: [ 'reading', 'walking my dog', 'musical-theatre', 'gaming' ],
   code: {
           frontEnd: [ HTML, CSS, Javascript, React, Bootstrap ],
           backEnd: [ Ruby, Sinatra, MongoDB, Postgres, Git, Node, Express ],
