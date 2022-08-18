@@ -84,11 +84,9 @@ During my studies two friends and I founded an events company called Dreamrole P
 **Havas Life Medicom** (January 2020 - June 2021)  
 _Administrator - Talent & People_
 
-- Reporting: absence, compliance, objectives, ad hoc reports
-- Diversity & Inclusion Ambassador
-- Recruitment & onboarding process from screening candidates to induction sessions
-- Payroll
-- Liaising with the wider business, finance department & senior leadership team
+- Creating reports for absence, compliance and objectives allowed me to refine my attention to detail.
+- I took on the additional responsibility of becoming a Diversity & Inclusion Ambassador. This included writing pieces for internal website focusing on LGBTQ+ issues.
+- Most of my time was spent on the recruitment & onboarding process, I took new starters on their journey from screening candidates to running induction sessions. Time management when balancing several new starters at once, along with attention to detail required for writing contracts and arranging interviews were key skills I developed here.
 
 **Kingston Lodge Hotel & Bingham Riverhouse** (May 2019 - October 2019)  
 _Receptionist_
