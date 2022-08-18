@@ -24,7 +24,7 @@ const Raphaella = {
 }
 ```
 
-<h1 id="about-me"> A Little Bit About Me... <img src="https://c.tenor.com/fbNST3YjMsAAAAAi/the-good-doggy.gif" width="100" ></h1>
+<h1 id="about-me"> A Little Bit About Me... <img src="https://c.tenor.com/Qy-ZzyFUiX8AAAAi/poppy-dog.gif" width="75" ></h1>
 
 My work background has been people facing roles that focus heavily on communication; whereas in my free time I prefer to do less talking, spending it reading, playing video games and seeing musical theatre shows. I explored lots of different roles since leaving college and took my favourite things from each of them when I left: 
 
