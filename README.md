@@ -91,23 +91,25 @@ During my studies two friends and I founded an events company called Dreamrole P
 **Havas Life Medicom** (January 2020 - June 2021)  
 _Administrator - Talent & People_
 
-- Creating reports for absence, compliance and objectives allowed me to refine my attention to detail.
+- Attention to detail allowed me to: create detailed reports for absence, complicance, and objectives & write contracts
+- Time management skills helped when balancing the recruitment and onboarding of several new starters at once.
+- Communication skills assisted me in put candidates at ease during screening calls.
+- I used presentation skills when running induction sessions for new starters.
 - I took on the additional responsibility of becoming a Diversity & Inclusion Ambassador. This included writing pieces for internal website focusing on LGBTQ+ issues.
-- Most of my time was spent on the recruitment & onboarding process, I took new starters on their journey from screening candidates to running induction sessions. Time management when balancing several new starters at once, along with attention to detail required for writing contracts and arranging interviews were key skills I developed here.
 
 **Kingston Lodge Hotel & Bingham Riverhouse** (May 2019 - October 2019)  
 _Receptionist_
 
-- In this customer facing role I used my interpersonal communication skills to greet & interact with guests during their stay, making sure their experience was friendly and seamless. 
-- Having the responsibility of training new team members was something I enjoyed. It allowed me to develop my leadership skills as well as my active listening skills.
-- Balancing and reconciling PDQ transactions against the system for the reception, bar and restaurant assisted me in polishing my problem solving skills and meticulous eye for detail.
+- My interpersonal communication skills when greeting and interacting with guests made their experience friendly and seamless. 
+- Leadership and active listening were useful when training new team members.
+- Meticulous eye for detail helped me balance and reconciling PDQ transactions against the system for the reception, bar, and restaurant.
 
 **West End Theatre Production** (October 2018 - April 2019)  
 _Administration & Social Media Marketing_
 
-- Growing follower count and engagement on multiple platforms incl. Twitter & Instagram required analytical skills and creativity.
-- Managing inboxes, updating websites and responding to enquiries allowed me to practice my communication skills and time management.
-- Event planning & marketing was the perfect opportunity to put into practice project management skills I started developing during my entrepreneurship. 
+- Analytical skills and creativity allowed me to grow follower counts and engagement on multiple platforms incl. Twitter & Instagram.
+- Time management was key when updating websites, managing inboxes and responding to enquiries. 
+- Project management skills assisted me with the planning & marketing of events.
 
 
 **I worked in hospitality roles whilst still in full-time education which helped me develop my communication, problem solving and most importantly time management skills further.**
