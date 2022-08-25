@@ -111,6 +111,12 @@ _Administration & Social Media Marketing_
 - Time management was key when updating websites, managing inboxes and responding to enquiries. 
 - Project management skills assisted me with the planning & marketing of events.
 
+**Dreamrole Productions** (May 2016 - September 2018)  
+_Founder & Director_
+
+- Attention to detail when handling budgets.
+- Project management and time management coordinating events.
+- Communication skills when casting, planning, and liaising with venues & providers. 
 
 **I worked in hospitality roles whilst still in full-time education which helped me develop my communication, problem solving and most importantly time management skills further.**
 
