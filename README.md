@@ -61,7 +61,7 @@ During my studies two friends and I founded an events company called Dreamrole P
 
 #### Makers Academy (April 2022 - August 2022)
 
-- Fullstack Software Engineering
+- Full stack Software Engineering
 - Tailored training in feedback, communication and teamwork
 - Pair programming and group work using agile methodologies
 - Test-driven development: unit & integration testing
@@ -91,7 +91,7 @@ During my studies two friends and I founded an events company called Dreamrole P
 **Havas Life Medicom** (January 2020 - June 2021)  
 _Administrator - Talent & People_
 
-- Attention to detail allowed me to: create detailed reports for absence, complicance, and objectives & write contracts
+- Attention to detail allowed me to: create detailed reports for absence, compliance, and objectives & write contracts
 - Time management skills helped when balancing the recruitment and onboarding of several new starters at once.
 - Communication skills assisted me in put candidates at ease during screening calls.
 - I used presentation skills when running induction sessions for new starters.
