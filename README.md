@@ -62,7 +62,14 @@ During my studies two friends and I founded an events company called Dreamrole P
 #### Makers Academy (April 2022 - August 2022)
 
 - Fullstack Software Engineering
-- Learning: OOP, MVC, TDD, pair programming/group work, agile methodologies, EQ, JavaScript, Ruby 
+- Tailored training in feedback, communication and teamwork
+- Pair programming and group work using agile methodologies
+- Test-driven development: unit & integration testing
+- Object-oriented languages: Ruby & JavaScript
+- Solid debugging processes
+- Databases: document database & relational database management system
+- Git workflow
+
 
 #### SheCodes (May 2021 - August 2021)
 
