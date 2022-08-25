@@ -77,7 +77,7 @@ During my studies two friends and I founded an events company called Dreamrole P
 
 #### Richmond Upon Thames College (2016 - 2018)
 - Level 3 Health & Social Care BTEC
-- D*, D*, D
+- Distinction*, Distinction*, Distinction
 
 <h1 id="work"> Work Experience <img src="https://c.tenor.com/rfBD3qlqgqoAAAAi/kawaii-anime.gif" width="75"></h1>
 
