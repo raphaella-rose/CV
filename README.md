@@ -70,14 +70,14 @@ During my studies two friends and I founded an events company called Dreamrole P
 - Courses: Basics, Plus, Responsive, React 
 - Learning: responsive web design, flexbox, SEO, API, hosting, GitHub, Bootstrap, HTML, CSS, JavaScript, React 
 
-#### University of West London (year achieved_2016_)
-
-- Musical Theatre Grade 8
-- Distinction
-
 #### Richmond Upon Thames College (2016 - 2018)
 - Level 3 Health & Social Care BTEC
 - Distinction*, Distinction*, Distinction
+
+#### University of West London (2016)
+
+- Musical Theatre Grade 8
+- Distinction
 
 <h1 id="work"> Work Experience <img src="https://c.tenor.com/rfBD3qlqgqoAAAAi/kawaii-anime.gif" width="75"></h1>
 
